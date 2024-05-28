@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/davidbo5/Desktop/PostApocWorld/FinalPracticeProject/Content/MyContent/Levels/LD_Gameplay.umap",
+				"C:/Users/davidbo5/Desktop/PostApocWorld/FinalPracticeProject/Content/MyContent/Blueprints/BPC_Crowbar.uasset",
+				"C:/Users/davidbo5/Desktop/PostApocWorld/FinalPracticeProject/Content/MyContent/Meshes/House1.uasset",
+				"C:/Users/davidbo5/Desktop/PostApocWorld/FinalPracticeProject/Content/MyContent/Blueprints/BPC_Barricade.uasset",
 				"C:/Users/davidbo5/Documents/Unreal Projects/FinalPracticeProject/Content/MyContent/Levels/P_BaseLevel.umap",
 				"C:/Users/davidbo5/Documents/Unreal Projects/FinalPracticeProject/Content/MyContent/Levels/LD_Blockout.umap",
 				"C:/Users/davidbo5/Documents/Unreal Projects/FinalPracticeProject/Content/Materials/MI_LDGrid_Red.uasset",
